@@ -1,4 +1,4 @@
-module badrpc/smartctl2prom
+module github.com/badrpc/smartctl2prom
 
 go 1.12
 
